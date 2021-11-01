@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+print_r(file("test.txt"));
+?>
+
+</body>
+</html>
+
+
+
+
+Array ( [0] => Hello, this is a test file. [1] => There are three lines here. [2] => This is the last line. )

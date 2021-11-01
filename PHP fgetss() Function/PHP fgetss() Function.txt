@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$file = fopen("test.htm","r");
+echo fgetss($file);
+fclose($file);
+?>
+
+</body>
+</html>
+
+
+
+This is a bold paragraph.
